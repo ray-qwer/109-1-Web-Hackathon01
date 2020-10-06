@@ -64,6 +64,20 @@ body > h1{
 .date{
     text-align: top;
     vertical-align: top;
+    background-color:transparent;
+    color:black;
+}
+.date:hover{
+    background-color:rgba(0, 0, 0, 0.103);
+    color : black;
+    border-radius:10px;
+}
+.Chosen{
+    text-align: top;
+    vertical-align: top;
+    background-color:rgba(0, 0, 0, 1);
+    color:white;
+    border-radius:10px;
 }
 
 /*****************Themes*****************/
